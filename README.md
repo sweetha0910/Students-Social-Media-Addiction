@@ -2,11 +2,9 @@
 
 **📌 Project**: Students' Social Media Addiction Study  
 **🛠 Tool Used**: Power BI  
-**📑 Pages**: 2 - Combined Report  
 
----
+## 📄 Page 1: Social Media Usage Analysis 
 
-## 📄 Page 1: Social Media Usage Analysis  
 <img width="888" height="499" alt="image" src="https://github.com/user-attachments/assets/7e194b4e-57c5-44f4-b214-aa1a3b22e5bf" />
 
 
@@ -56,6 +54,7 @@
 ---
 
 ## 📄 Page 2: Academic & Mental Health Impact 
+
 <img width="885" height="495" alt="image" src="https://github.com/user-attachments/assets/49a43e06-d99c-4cb0-a3e4-e6b5de50ae0b" />
 
 
