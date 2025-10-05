@@ -8,6 +8,8 @@
 <img width="888" height="499" alt="image" src="https://github.com/user-attachments/assets/7e194b4e-57c5-44f4-b214-aa1a3b22e5bf" />
 
 
+
+
 🎯 **Objective**  
 
 ✨ To understand how students use social media across countries, age groups, genders, academic levels, and platforms.  
@@ -57,6 +59,8 @@
 ## 📄 Page 2: Academic & Mental Health Impact 
 
 <img width="885" height="495" alt="image" src="https://github.com/user-attachments/assets/49a43e06-d99c-4cb0-a3e4-e6b5de50ae0b" />
+
+
 
 
 🎯 **Objective**  
