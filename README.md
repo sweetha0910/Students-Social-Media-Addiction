@@ -9,6 +9,7 @@
 
 
 🎯 **Objective**  
+
 ✨ To understand how students use social media across countries, age groups, genders, academic levels, and platforms.  
 
 📊 **Key Visuals & Interpretations**  
@@ -59,6 +60,7 @@
 
 
 🎯 **Objective**  
+
 💡 To study how social media addiction affects academics, mental health, and relationships.  
 
 📊 **Key Visuals & Interpretations**  
